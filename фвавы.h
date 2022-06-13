@@ -1,5 +1,5 @@
 //
-// Created by Integral on 04.06.2022.
+// Created by Integral on 04.06.2022.рммммолмломломдмд
 //
 
 #ifndef RAL_ФВАВЫ_H
